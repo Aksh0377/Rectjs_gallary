@@ -70,7 +70,6 @@ class Tiles extends React.Component {
 }
 
 class Tile extends React.Component {
-
 	constructor(props) {
 			super(props);
 			this.state = {
